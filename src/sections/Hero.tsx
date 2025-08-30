@@ -102,7 +102,7 @@ export default function Hero() {
       
 
         <h1 className="text-6xl md:text-7xl sl:text-6xl font-medium text-center mt-1">
-          Beneran Nih?
+          Real Nih?
         </h1>
 
         <p className="text-center text-xl text-white/50 mt-8 max-w-2xl mx-auto leading-relaxed">
