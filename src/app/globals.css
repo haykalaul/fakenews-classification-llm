@@ -1,0 +1,51 @@
+@import "tailwindcss";
+/* ===== Custom Variables (sesuai tailwind.config.ts) ===== */
+:root {
+  --font-inter: 'Inter', sans-serif;
+
+  /* Breakpoints sesuai screens Tailwind */
+  --screen-sm: 375px;
+  --screen-md: 768px;
+  --screen-lg: 1200px;
+
+  /* Container padding default */
+  --container-padding: 1rem;
+  --container-padding-md: 2rem;
+  --container-padding-lg: 4rem;
+}
+
+/* ===== Global Reset & Base Styles ===== */
+html {
+  font-family: var(--font-inter), sans-serif;
+  scroll-behavior: smooth;
+background: linear-gradient(to bottom, rgb(10, 10, 10), rgb(23, 23, 23)); /* dark UI gradient */
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* ===== Container Utility (optional, jika tidak pakai tailwind `container` class) ===== */
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--container-padding);
+  padding-right: var(--container-padding);
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-left: var(--container-padding-md);
+    padding-right: var(--container-padding-md);
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    padding-left: var(--container-padding-lg);
+    padding-right: var(--container-padding-lg);
+  }
+}
