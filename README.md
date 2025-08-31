@@ -18,6 +18,11 @@ Proyek ini adalah aplikasi web Next.js untuk mendeteksi berita palsu (fake news)
 - Footer dengan link sosial dan informasi proyek
 - Desain responsif dengan Tailwind CSS dan animasi ringan
 
+## 📸 Screenshot
+
+![Screenshot](docs/hero1.png)
+![Screenshot](docs/hero2.png)
+
 ## Persiapan & Instalasi (Setup)
 1. Pastikan Node.js memenuhi versi yang disarankan:
    - Disarankan: Node.js ^18.18.0 || ^19.8.0 || >=20.0.0
