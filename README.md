@@ -1,7 +1,7 @@
 # Real nih — Fake News Detection Landing Page (AI-powered)
 
 ## Deskripsi
-Proyek ini adalah aplikasi web Next.js untuk mendeteksi berita palsu (fake news) menggunakan model AI. Aplikasi menyediakan antarmuka untuk memeriksa teks, dokumentasi integrasi API, dan utilitas untuk pengembang.
+Proyek ini adalah aplikasi web Next.js untuk mendeteksi berita palsu (fake news) menggunakan model AI. Aplikasi menyediakan antarmuka untuk memeriksa teks, dokumentasi integrasi API, dan utilitas untuk pengembang. (Project IBM x Hacktiv8indonesia Program)
 
 ## Teknologi yang digunakan
 - Next.js (App Router)
@@ -94,5 +94,5 @@ Proyek ini adalah aplikasi web Next.js untuk mendeteksi berita palsu (fake news)
 
 Jika butuh contoh implementasi API route atau template .env.example, 
 beri tahu dengan 
-1.kontak email: haikalaulilalbab@gmail.com ,atau
-2. hubungi pada medsos yang ada pada footer medsos information
+- kontak email: haikalaulilalbab@gmail.com ,atau
+- hubungi pada medsos yang ada pada footer informasi medsos
