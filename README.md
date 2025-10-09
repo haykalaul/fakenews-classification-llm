@@ -18,7 +18,7 @@ Proyek ini adalah aplikasi web Next.js untuk mendeteksi berita palsu (fake news)
 - Footer dengan link sosial dan informasi proyek
 - Desain responsif dengan Tailwind CSS dan animasi ringan
 
-## Persiapan & Instalasi (Setup)
+## Persiapan & Instalasi (Setup env)
 1. Pastikan Node.js memenuhi versi yang disarankan:
    - Disarankan: Node.js ^18.18.0 || ^19.8.0 || >=20.0.0
    - Gunakan nvm-windows jika perlu mengelola versi Node di Windows.
@@ -47,7 +47,7 @@ Proyek ini adalah aplikasi web Next.js untuk mendeteksi berita palsu (fake news)
    - npm run build
    - npm run start
 
-7. Deploy ke Vercel
+7. Deploy ke Vercel (bebas,preferensi masing masing untuk hosting)
    - Prasyarat: punya akun Vercel dan repository (GitHub/GitLab/Bitbucket).
    - Langkah singkat:
      1. Buka https://vercel.com dan login.
